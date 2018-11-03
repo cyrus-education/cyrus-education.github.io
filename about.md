@@ -4,7 +4,8 @@ title: About Chengyang(Cyrus)
 permalink: /about/
 ---
 
-I'm a highly innovative, passionate UI/UX designer, studying and engaging in Digital/Website Design for more than 5 years. With the skills of UI/UX design, website design, visual design, interaction design, HTML/CSS, information architecture, user research methods, rapid prototype, I help various clients to reach their targeted users through multiple platforms. Recognised as a team worker, I co-worked with product manager, sales specialist, marketing specialist, programmer, researcher. With highly effective written and verbal communication skills, I always solve problems and meet deadlines. My goal is to bridge the gaps between businesses and consumers and develop a strong brand identify for my clients on digital platforms. 
+I'm a highly innovative, passionate interaction designer & educator, studying and engaging in Digital/Interactive Design for more than 7 years. Since 2016, I joined Wuhan Textile University to teach and research and also have been teaching high school students to use programming language to realize their creativities at No.1 Middle School affiliated to Central China Normal University (Top 1 high school in Hubei area). Before working as a tutor, I worked for Daimler China, 58.com and Taobao(Alibaba China) as UX/Interaction Designer. I used to study Interaction Design at University of Kansas and digital media art at Communication University of China. 
+
 
 ### Contact me
 
