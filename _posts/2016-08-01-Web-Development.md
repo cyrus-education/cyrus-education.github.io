@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web Development with UG-1 Digital Media Technology"
+title: "Web Development 2016-2017"
 tags: [HTML, CSS, Javascript]
 comments: false
 ---
