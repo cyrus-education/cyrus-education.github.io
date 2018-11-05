@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Web Development 2016-2017"
-tags: [HTML, CSS, Javascript]
+title: "Multimedia Design and Graphics 2017-2018"
+tags: [Graphics Design, Photography, 2D Animation]
 comments: false
 ---
 TBA
