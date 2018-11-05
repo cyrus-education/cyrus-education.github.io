@@ -26,10 +26,11 @@ navigation:
     url: /
   - name:Portfolio
     url: /portfolio
-  - name: Archive
-    url: /archive
-  - name: Tags
-    url: /tags
+    
+  # - name: Archive
+  #   url: /archive
+  # - name: Tags
+  #   url: /tags
  
 
 # Pagination
