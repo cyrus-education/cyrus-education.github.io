@@ -26,7 +26,6 @@ navigation:
     url: /
   - name:Portfolio
     url: /portfolio
-    
   # - name: Archive
   #   url: /archive
   # - name: Tags
