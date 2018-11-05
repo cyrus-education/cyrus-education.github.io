@@ -22,8 +22,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 navigation:
   - name: About
     url: /about
-  - name: Blog
+  - name: Teaching
     url: /
+  - name:Portfolio
+    url: /portfolio
   - name: Archive
     url: /archive
   - name: Tags
