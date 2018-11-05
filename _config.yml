@@ -24,7 +24,7 @@ navigation:
     url: /about
   - name: Teaching
     url: /
-  - name:Portfolio
+  - name: Portfolio
     url: /portfolio
   # - name: Archive
   #   url: /archive
