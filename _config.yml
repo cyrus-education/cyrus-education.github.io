@@ -13,7 +13,8 @@ description: An Interaction Designer and Educator
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/cyrus-education/cyrus-education.github.io/blob/master/images/cyrus-color-pic.jpg
+avatar: https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/cyrus-color-pic.jpg
+      
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
