@@ -19,7 +19,14 @@ Week 1
 * focal length (50mm vs 150mm)
 * brightness and contrast
 * frames per second(fps)
-* bit depth
+* bit depth [Bit Depth: 8-bit Vs. 16-bit – Retouching Academy](https://retouchingacademy.com/qualities-of-digital-images-bit-depth/)
 * image histograms
 * HSL,HSV
 
+Questions:
+* Which aperture should you choose for achieving a "sharp" image?
+* What are the mathematic equations behind the "historgram normalization" and "contrast increment"?
+* How to "dignosing" an image? [History of Retouching: Photographers and Retouchers Synergy in the Analog Photography Era – Retouching Academy](https://retouchingacademy.com/history-of-retouching-photographers-and-retouchers-synergy-in-the-analog-photography-era/) 
+
+Exercise: 
+* Take a picture, find a visual style, compare the two works, what should you do to achieve that?
