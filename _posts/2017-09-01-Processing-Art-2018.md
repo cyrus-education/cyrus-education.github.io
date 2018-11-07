@@ -16,3 +16,5 @@ We use Processing to make a stomach shape, render a pink background, fill it wit
 
 The audience finds a kind of fun in the interaction, which leads to an inspiration: whether we know our stomach and whether we can treat our stomach well.
 
+{% include vimeoPlayer.html id=286310061 %}
+
