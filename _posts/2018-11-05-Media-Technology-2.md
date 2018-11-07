@@ -5,7 +5,7 @@ tags: [Image Processing, Audio, Video]
 comments: false
 ---
 #### Tutor: Alan Dolhasz
-#### Teaching Assistant: Chengyang(Cyrus) Liu
+#### Teaching Assistant: Chengyang(Cyrus) Liu, Mengye(Susan) Zhou, Ruiqi Hu 
 
 #### Indicative Content
 * Image, Video and Audio acquisition, processing and compression
