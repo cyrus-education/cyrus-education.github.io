@@ -29,4 +29,5 @@ Questions:
 * How to "dignosing" an image? [History of Retouching: Photographers and Retouchers Synergy in the Analog Photography Era – Retouching Academy](https://retouchingacademy.com/history-of-retouching-photographers-and-retouchers-synergy-in-the-analog-photography-era/) 
 
 Exercise: 
-* Take a picture, find a visual style, compare the two works, what should you do to achieve that?
+* Take a picture, find a visual style, compare the two works, what should you do to achieve that? List them out(Contrast, Saturation, Shadows, Midtones, Highlights)!
+* Mimic this picture ![Martin+Parr.jpg (640×424)](http://4.bp.blogspot.com/-aWnvnjW9-jg/VlUWyIZaxKI/AAAAAAAAG2Q/3OXiKASdNU4/s640/Martin%2BParr.jpg)
