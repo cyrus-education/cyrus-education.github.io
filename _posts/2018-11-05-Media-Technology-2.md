@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Media Technology UG2 2018"
-tags: [Image Processing, Audio, Video]
+tags: [Image, Audio, Video]
 comments: false
 ---
 #### Tutor: Alan Dolhasz
@@ -30,4 +30,4 @@ Questions:
 * How to "dignosing" an image? [History of Retouching: Photographers and Retouchers Synergy in the Analog Photography Era – Retouching Academy](https://retouchingacademy.com/history-of-retouching-photographers-and-retouchers-synergy-in-the-analog-photography-era/) 
 * What are digital image?
 * Why is compression important?
-
+* What is resolution?
