@@ -31,3 +31,23 @@ Questions:
 * What are digital image?
 * Why is compression important?
 * What is resolution?
+
+Week 2 
+* Visible Light Specturm
+* Additive(light) vs Subtractive(paint)
+* Blackbody Radiation and Color temperature
+* Digital image sensors
+* CMOS vs CCD
+* RAW format
+* Aliasing
+* Moire pattern
+* Rolling Shutter
+* Wagon Wheel Effect
+* Partial Exposure
+
+Questions:
+* What is light?
+* What does a color filter do?
+* What are the different between Full Frame Camera and APS-C camera?
+* What is crop factor?
+* Why there will be a wagon wheel effect?
