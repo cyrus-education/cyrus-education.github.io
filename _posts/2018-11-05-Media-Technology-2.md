@@ -22,12 +22,12 @@ Week 1
 * bit depth [Bit Depth: 8-bit Vs. 16-bit – Retouching Academy](https://retouchingacademy.com/qualities-of-digital-images-bit-depth/)
 * image histograms
 * HSL,HSV
+* Shadow, Midtones, Highlights
 
 Questions:
 * Which aperture should you choose for achieving a "sharp" image?
 * What are the mathematic equations behind the "historgram normalization" and "contrast increment"?
 * How to "dignosing" an image? [History of Retouching: Photographers and Retouchers Synergy in the Analog Photography Era – Retouching Academy](https://retouchingacademy.com/history-of-retouching-photographers-and-retouchers-synergy-in-the-analog-photography-era/) 
+* What are digital image?
+* Why is compression important?
 
-Exercise: 
-* Take a picture, find a visual style, compare the two works, what should you do to achieve that? List them out(Contrast, Saturation, Shadows, Midtones, Highlights)!
-* Mimic this picture ![Martin+Parr.jpg (640×424)](http://4.bp.blogspot.com/-aWnvnjW9-jg/VlUWyIZaxKI/AAAAAAAAG2Q/3OXiKASdNU4/s640/Martin%2BParr.jpg)
