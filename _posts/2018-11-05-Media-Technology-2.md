@@ -51,3 +51,17 @@ Questions:
 * What are the different between Full Frame Camera and APS-C camera?
 * What is crop factor?
 * Why there will be a wagon wheel effect?
+
+
+Exercise: Answer these questions, we will review them next week.
+1. What are digital images?
+2. Why is compression important?
+3. What is resolution? 
+4. What is bit depth? What are the differences between 8-bit and 16-bit
+5. What are shadows, midtones, highlights?
+6. What is frames per second(fps)? 
+7. What is light?
+8. What does a color filter do?
+9. What are the different between Full Frame Camera and APS-C camera?
+10.What is crop factor?
+11.Why there will be a wagon wheel effect?
