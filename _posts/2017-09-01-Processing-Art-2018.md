@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Processing Art - Class of 2018 - Graduation"
+title: "Processing Art - 2018 Graduation"
 tags: [Processing, Arduino, Creative Coding]
 comments: false
 ---
