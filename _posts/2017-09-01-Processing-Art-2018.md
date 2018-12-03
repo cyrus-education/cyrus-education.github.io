@@ -4,11 +4,10 @@ title: "Processing Art - Class of 2018"
 tags: [Processing, Arduino, Creative Coding]
 comments: false
 ---
-### Final Projects:
 
 ### Stomach Medicine(胃必治)
 
-### _Mojie Tang, Yuqing Zhou, Zimeng Huang_
+### Mojie Tang, Yuqing Zhou, Zimeng Huang
 
 The project was inspired by a stomach ailment, which was tortured by stomach pain and understood the importance of the stomach. The stomach is not just a digestive container, it is also a friend who has been with us for a lifetime.
 
