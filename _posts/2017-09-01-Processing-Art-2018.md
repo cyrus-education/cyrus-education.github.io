@@ -18,4 +18,4 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 {% include vimeoPlayer.html id=299357740 %}
 
 [[View the source code on Github]](https://www.google.com)
-
+{: .center}
