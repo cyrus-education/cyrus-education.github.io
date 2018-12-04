@@ -21,9 +21,11 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 {: .center}
 
 
+
+
 ### Synesthesia Alphabet(通感症字母表)
 
-##### Mojie Tang, Yuqing Zhou, Zimeng Huang
+##### Ruihan Yu, Ying Huang, Wenqian Hu, Yiming Wuhuang
 
 The project was inspired by a stomach ailment, which was tortured by stomach pain and understood the importance of the stomach. The stomach is not just a digestive container, it is also a friend who has been with us for a lifetime.
 
@@ -36,9 +38,12 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 [[View the source code on Github]](https://www.google.com)
 {: .center}
 
+
+
+
 ### The Choice Before And Now(过去和现在的选择)
 
-##### Mojie Tang, Yuqing Zhou, Zimeng Huang
+##### Zehuan Xu, Shiru Wang
 
 The project was inspired by a stomach ailment, which was tortured by stomach pain and understood the importance of the stomach. The stomach is not just a digestive container, it is also a friend who has been with us for a lifetime.
 
@@ -51,9 +56,12 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 [[View the source code on Github]](https://www.google.com)
 {: .center}
 
+
+
+
 ### Corpulence(吃胖)
 
-##### Mojie Tang, Yuqing Zhou, Zimeng Huang
+##### Jingtong Cheng, Qiuyu Yu, Qian He, Junyue Zhang
 
 The project was inspired by a stomach ailment, which was tortured by stomach pain and understood the importance of the stomach. The stomach is not just a digestive container, it is also a friend who has been with us for a lifetime.
 
@@ -66,9 +74,12 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 [[View the source code on Github]](https://www.google.com)
 {: .center}
 
+
+
+
 ## Hot As Dog(热成狗)
 
-##### Mojie Tang, Yuqing Zhou, Zimeng Huang
+##### Ruzhe Cai, Duanying ZHang, Hehui Zhang, Fei Xie
 
 The project was inspired by a stomach ailment, which was tortured by stomach pain and understood the importance of the stomach. The stomach is not just a digestive container, it is also a friend who has been with us for a lifetime.
 
@@ -82,9 +93,11 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 {: .center}
 
 
+
+
 ## Cellutopia(细胞社会)
 
-##### Mojie Tang, Yuqing Zhou, Zimeng Huang
+##### Yinyin Yu, Wenwen Yang, Yiwen Liu
 
 The project was inspired by a stomach ailment, which was tortured by stomach pain and understood the importance of the stomach. The stomach is not just a digestive container, it is also a friend who has been with us for a lifetime.
 
