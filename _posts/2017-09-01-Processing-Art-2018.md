@@ -17,7 +17,7 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 
 {% include vimeoPlayer.html id=299357740 %}
 
-[[View the source code on Github]](https://www.google.com)
+[[View the source code on Github]](https://github.com/cyrus-education/Processing_Art_2018/tree/master/stomachMedicine)
 {: .center}
 
 
@@ -35,7 +35,7 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 
 {% include vimeoPlayer.html id=299378589 %}
 
-[[View the source code on Github]](https://www.google.com)
+[[View the source code on Github]](https://github.com/cyrus-education/Processing_Art_2018/tree/master/synesthesiaAlphabet)
 {: .center}
 
 
@@ -53,7 +53,7 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 
 {% include vimeoPlayer.html id=299378721 %}
 
-[[View the source code on Github]](https://www.google.com)
+[[View the source code on Github]](https://github.com/cyrus-education/Processing_Art_2018/tree/master/choiceBeforeAndNow)
 {: .center}
 
 
@@ -71,7 +71,7 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 
 {% include vimeoPlayer.html id=299378770 %}
 
-[[View the source code on Github]](https://www.google.com)
+[[View the source code on Github]](https://github.com/cyrus-education/Processing_Art_2018/tree/master/corpulence)
 {: .center}
 
 
@@ -89,7 +89,7 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 
 {% include vimeoPlayer.html id=299378832 %}
 
-[[View the source code on Github]](https://www.google.com)
+[[View the source code on Github]](https://github.com/cyrus-education/Processing_Art_2018/tree/master/hotAsDog)
 {: .center}
 
 
@@ -107,5 +107,5 @@ The audience finds a kind of fun in the interaction, which leads to an inspirati
 
 {% include vimeoPlayer.html id=299378880 %}
 
-[[View the source code on Github]](https://www.google.com)
+[[View the source code on Github]](https://github.com/cyrus-education/Processing_Art_2018/tree/master/cellutopia)
 {: .center}
