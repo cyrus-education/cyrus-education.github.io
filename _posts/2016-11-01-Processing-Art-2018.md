@@ -5,4 +5,7 @@ tags: [Processing, Creative Coding]
 comments: false
 ---
 
-[https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/1.gif]
+![Center example image](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/1.gif "Center"){: .center-image}
+
+
+![Center example image](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/2.gif "Center"){: .center-image}
