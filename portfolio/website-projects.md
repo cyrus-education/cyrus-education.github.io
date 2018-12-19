@@ -4,7 +4,7 @@
 KU Confucius Institute Official Website
 
 6th China(Beijing) International Student Animation Festival
-![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/aniwow.jpg "Center"){: .center-image}
+![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/aniwow.jpg "、"Large example image Center"){: .center-image}
 
 Shuanghe Pharmaceutical Co., Ltd.
 
