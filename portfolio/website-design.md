@@ -1,4 +1,11 @@
-With 7 years experience in website design and development, I endorse myself as a highly innovative and passionate UI/UX designer. I started my first project working for an educational institute. Since then, my work has evolved in education, fashion, health care, e-commerce and wedding service. My clients: University of Kansas, Communication University of China, Beijing University of Technology, Shuanghe Pharmaceutical Co., Ltd., Isun Jewelry Co., Ltd., etc.
+---
+layout: page
+title: Website Projects
+permalink: /portfolio/website-projects
+---
+
+
+> With 7 years experience in website design and development, I endorse myself as a highly innovative and passionate UI/UX designer. I started my first project working for an educational institute. Since then, my work has evolved in education, fashion, health care, e-commerce and wedding service. My clients: University of Kansas, Communication University of China, Beijing University of Technology, Shuanghe Pharmaceutical Co., Ltd., Isun Jewelry Co., Ltd., etc.
 
 
 KU Confucius Institute Official Website
