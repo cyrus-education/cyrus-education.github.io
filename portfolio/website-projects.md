@@ -4,6 +4,7 @@
 KU Confucius Institute Official Website
 
 6th China(Beijing) International Student Animation Festival
+![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/aniwow.jpg "Center"){: .center-image}
 
 Shuanghe Pharmaceutical Co., Ltd.
 
@@ -14,5 +15,7 @@ NewYork NewYork Wedding Photography Studio
 Fengyange Beauty and Fitness Chain
 
 Swaroski Wedding Photo Studio
-[](https://cyrus-education.github.io/images/aniwow.jpg)
+
+
+
 Isun Jewelry Co., Ltd.
