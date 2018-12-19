@@ -21,6 +21,6 @@ permalink: /portfolio/website-projects
 ##### Fengyange Beauty and Fitness Chain
 ![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
 ##### Swaroski Wedding Photo Studio
-![Swaroski Wedding Photo Studio](https://cyrus-education.github.io/images/shihualuo.jpg "Large example image")
+![Swaroski Wedding Photo Studio](https://cyrus-education.github.io/images/shihualuo.png "Large example image")
 ##### Isun Jewelry Co., Ltd.
 ![Isun Jewelry Co., Ltd.](https://cyrus-education.github.io/images/yisheng.jpg "Large example image")
