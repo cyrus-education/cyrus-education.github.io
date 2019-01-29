@@ -18,10 +18,15 @@ In the BCU module guide, three learning objectives should be fulfilled, which ar
 * Explain the application of communication and networking in media processing and distribution systems including: how audio visual information is transmitted on the internet.
 * Present original analysis of technologies and markets from wide ranging research.
 
-The assessments divide into two part: paper test and a technical report that need to address a specific research area related to video compression. 
+The assessments divide into two part: (1) paper test and (2) a technical report that need to address a specific research area related to video compression. 
 
 
 #### Challenges
+This course is a foundational course in the process of fostering of "digital thinking". However, the Chinese undergraduate-level students are especially lack of the necessary knowledge. The students are all "art-based" studetns in high school, which means they had strict trainings on hand drawing, but no computer-based skills. 
+
+Students under Chinese cultural impacts are tends to passively listen and reluctantly to learning-by-doing. What's more, there is a big gap between "digital thinking" and the "pre-digital thinking" from my teaching practices, that is,  
+
+
 
 Week 1
 * shutter speed, ISO, aperture
