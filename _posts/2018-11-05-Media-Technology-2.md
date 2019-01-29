@@ -7,11 +7,16 @@ comments: false
 #### Role: Teaching Assistant
 #### Course Leader: Alan Dolhasz
 
-#### Indicative Content
+#### Background of this course
+Media Technology course aims at presenting a knowledge-based foundations to the digital media undergraduates. It covers:  
 * Image, Video and Audio acquisition, processing and compression
 * Fundamentals of Light and Sound
-* Pratical skills with Adobe Photoshop, Premiere, Audition
-* Things that are interesting FOR YOU!
+* Digital information storage and Content Delivery Networks (CDNs)
+In the BCU module guide, three learning objectives should be fulfilled, which are:
+* Demonstrate an understanding of the operating characteristic and applications of systems involving capture and processing of Image, audio and human-interaction.
+* Explain the application of communication and networking in media processing and distribution systems including: how audio visual information is transmitted on the internet.
+* Present original analysis of technologies and markets from wide ranging research.
+The assessments divide into two part: paper test and a technical report that need to address a specific research area related to video compression. 
 
 Week 1
 * shutter speed, ISO, aperture
