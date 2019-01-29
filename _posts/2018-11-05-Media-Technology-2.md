@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Media Technology UG2 2018"
+title: "Media Technology Teaching Practices 2018"
 tags: [Image, Audio, Video]
 comments: false
 ---
-#### Tutor: Alan Dolhasz
-#### Teaching Assistant: Chengyang(Cyrus) Liu, Mengye(Susan) Zhou, Ruiqi Hu 
+#### Role: Teaching Assistant
+#### Course Leader: Alan Dolhasz
 
 #### Indicative Content
 * Image, Video and Audio acquisition, processing and compression
