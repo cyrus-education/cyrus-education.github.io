@@ -21,3 +21,7 @@ comments: false
 
 
 ### Final Works
+
+##### Greasy Chin, Tong Xirui
+First of all, the theme of this work is clear, it is a very greasy uncle's greasy chin and there are many yellow and red acne on his chin.Because it is my own drawing, this greasy chin is not so disgusting, and actually it is a little cute, round nose and round chin, vivid. The user could click and drag the chin, and the chin can be deformed accordingly, and the chin can be dragged at will. This is a bit funny and interactive. Because my technique is not enough, the acne will fly out of the chin, so I made an air wall. The mouse can’t drag. I can only do this. Hahahaha. What do I want to say in this work? That is, we can't become too greasy. Otherwise, the chin will not be well maintained and it will be distorted.
+![Greasy Chin, Tong Xirui](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-4.gif "Greasy Chin, Tong Xirui" "Center"){: .center-image}
