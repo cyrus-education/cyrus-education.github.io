@@ -14,3 +14,7 @@ comments: false
 
 ###### Mario Jump, Tong Xirui
 ![Mario Jump, Tong Xirui](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-2.gif "Mario Jump, Tong Xirui" "Center"){: .center-image}
+
+###### mouseX, Zhao Tian
+![mouseX, Zhao Tian](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-3.gif "mouseX, Zhao Tian" "Center"){: .center-image}
+
