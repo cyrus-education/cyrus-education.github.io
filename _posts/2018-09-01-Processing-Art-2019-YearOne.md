@@ -44,6 +44,11 @@ First of all, the theme of this work is clear, it is a very greasy uncle's greas
 
 ![SMT Meat, Wang Chenziwei](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-8.gif "SMT Meat, Wang Chenziwei" "Center"){: .center-image}
 
+##### Sissy Spade, Ren Mengying
+
+
+##### Retarded Melon, Sang Mengshen
+
 ##### Free Mr.Banana, Wu Xinyu
 
 ![Free Mr.Banana, Wu Xinyu](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-9.gif "Free Mr.Banana, Wu Xinyu" "Center"){: .center-image}
