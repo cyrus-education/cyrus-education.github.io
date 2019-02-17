@@ -54,17 +54,24 @@ Interaction effects: control the size of the eyes with the mouse movements
 
 This work is based on the general perception towards "sissy boy" in the society. To face of the group of "sissy spades" that is limited by the society, I hope that there will be less ridicule or fanaticism. A spade is a inverted heart, with my expectation of respecting the diversity of the society.
 
+{% include vimeoPlayer.html id=317226806 %}
 
 ##### Retarded Melon, Sang Mengshen
-
+{% include vimeoPlayer.html id=317227102 %}
 ##### Free Mr.Banana, Wu Xinyu
+Because the general colors of the work make people want to dance (perhaps not) when the flashing Mr.Banana is accompanied by such colors, it makes people feel his freedom (well, it’s just a bullshit).
+
+Interaction effect: Make you want to dance when you look at it.
 
 ![Free Mr.Banana, Wu Xinyu](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-9.gif "Free Mr.Banana, Wu Xinyu" "Center"){: .center-image}
 
 ##### Peaceful Me, He Wencheng
+It is very calm, without any movements and sounds, always watching the sun in the sky until the night and it is dark, he is still looking to the sky, but unfortunately can not wait for a round of moon, it is thinking of why is there no moon? The sun is also very calm, alternating every day in a constant dimension, and in this way, an infinite loop.
 
 ![Peaceful Me, He Wencheng](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-10.gif "Peaceful Me, He Wencheng" "Center"){: .center-image}
 
 ##### Terrible Nut, Zhang Hanjun
+Why choose the current visual style: Because it looks short and sudden, you can scare the timid person like me.  I used the "JUMP SCARED" that I liked in the American horror movies.
 
+The interaction effect:  Move the mouse on the black screen, and you can harvest a cute and touching nut at a specific location.
 ![Terrible Nut, Zhang Hanjun](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-11.gif "Terrible Nut, Zhang Hanjun" "Center"){: .center-image}
