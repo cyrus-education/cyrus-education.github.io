@@ -33,10 +33,12 @@ I got the theme with the word "Scary", and naturally I thought that the visual s
 ![Scary Nostril, Tu Qingying](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-5.gif "Scary Nostril, Tu Qingying" "Center"){: .center-image}
 
 ##### Lazy Machine, Long Ziyue
+My theme is lazy mechanics, so I drew a small rocket, slow and slow to show that it was lazy. In order to make the picture more vivid, I added a little interactive effect: when the mouse moves on the screen, there will be a small ball to follow. That's it………
 
 ![Lazy Machine, Long Ziyue](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-6.gif "Lazy Machine, Long Ziyue" "Center"){: .center-image}
 
 ##### Silly TNP, Zhao Tian
+The theme is ... emm "Silly TNP(Taiwan National Party)"! When I got the theme, I am actually very desperate and confused... Later I thought of combining the TNP elements with the funny emoji. The interactive effect of the rotation is mainly to fully reflect the characteristics of "silly". When the mouse moves to different places, there will be different speeds just to make the content more interesting and interesting...
 
 ![Silly TNP, Zhao Tian](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-7.gif "Silly TNP, Zhao Tian" "Center"){: .center-image}
 
