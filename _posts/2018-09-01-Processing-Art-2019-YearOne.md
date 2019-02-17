@@ -42,11 +42,17 @@ The theme is ... emm "Silly TNP(Taiwan National Party)"! When I got the theme, I
 
 ![Silly TNP, Zhao Tian](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-7.gif "Silly TNP, Zhao Tian" "Center"){: .center-image}
 
-##### SMT Meat, Wang Chenziwei
+##### Shamate Meat, Wang Chenziwei
+Theme: Shamate (meaning extremely out-of-fashion in China) Meat
+Visual Style: I want to make it as Shamate as possbile, but it seems that it is a little cute than Shamate
+Interaction effects: control the size of the eyes with the mouse movements
 
 ![SMT Meat, Wang Chenziwei](https://raw.githubusercontent.com/cyrus-education/cyrus-education.github.io/master/images/640-8.gif "SMT Meat, Wang Chenziwei" "Center"){: .center-image}
 
 ##### Sissy Spade, Ren Mengying
+"Do not live in the framework of society. Femininity is not necessarily bad, masculine is not necessarily what you want to pursue. No matter male or female, there is no established framework for gender identity." My theme is "Sissy Spade". Because I want to reflect the sense of "sissy", the background is a colorful gradient. I want to break the static and add visual diversity. So the unhappy spade in the work are shaking with the background music, and various labels for the "sissy boy" rise from below.
+
+This work is based on the general perception towards "sissy boy" in the society. To face of the group of "sissy spades" that is limited by the society, I hope that there will be less ridicule or fanaticism. A spade is a inverted heart, with my expectation of respecting the diversity of the society.
 
 
 ##### Retarded Melon, Sang Mengshen
