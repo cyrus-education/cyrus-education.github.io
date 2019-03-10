@@ -1,5 +1,5 @@
 
 
 
-[Website Projects](cyrus-education.github.io/portfolio/website-projects.md)
+[Website Projects](website-projects.md)
       
