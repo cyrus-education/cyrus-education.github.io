@@ -10,12 +10,12 @@ permalink: /portfolio/smartcarux
 ##### Competitive Analysis
 ![KU Confucius Institute Official Website](https://cyrus-education.github.io/images/scca.png "Large example image")
 ##### Business Model
-![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/scbm.jpg "Large example image")
-##### User Persona & Situated Mental Models
+![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/scbm.png "Large example image")
+##### User Persona & Scenario
 [](https://www.youtube.com/watch?v=Jsqkh1KZ3bw&t=2s)
 ##### Storyboard
 ![Victoria Wedding Photography Studio](https://cyrus-education.github.io/images/victoria.jpg "Large example image")
-##### Scenario
+##### 
 ![NewYork NewYork Wedding Photography Studio](https://cyrus-education.github.io/images/newyorknewyork.jpg "Large example image")
 ##### Paper Prototype
 ![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
