@@ -12,7 +12,7 @@ permalink: /portfolio/smartcarux
 ##### Business Model
 ![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/scbm.png "Large example image")
 ##### User Persona & Scenario
-{% include youtubePlayer.html id=Jsqkh1KZ3bw&t %}
+{% youtube Jsqkh1KZ3bw %}
 ##### Storyboard
 ![Victoria Wedding Photography Studio](https://cyrus-education.github.io/images/victoria.jpg "Large example image")
 ##### 
