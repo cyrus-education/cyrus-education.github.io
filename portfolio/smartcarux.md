@@ -8,9 +8,9 @@ permalink: /portfolio/smartcarux
 > A project of design research, design planning and interaction design is undertaken to explore concepts, market issues, human factors and user experience implications of “smart”, self-driving automotive technology. Uniquely, this effort focuses not some potential future state of widespread technology adoption (i.e., a world where the vast majority of vehicles are autonomously controlled), but on the gradual adoption of such technology over time, where humans still drive, but control and judgment are increasingly augmented and passed off to smart automotive systems. Benefits and liabilities are assessed. Situational driver scenarios are set out for review and critique.
 
 ##### Competitive Analysis
-![KU Confucius Institute Official Website](https://cyrus-education.github.io/images/confucius-website.png "Large example image")
+![KU Confucius Institute Official Website](https://cyrus-education.github.io/images/scca.png "Large example image")
 ##### Business Model
-![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/aniwow.jpg "Large example image")
+![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/scbm.jpg "Large example image")
 ##### User Persona & Situated Mental Models
 ![Shuanghe Pharmaceutical Co., Ltd.](https://cyrus-education.github.io/images/shuanghe.jpg "Large example image")
 ##### Storyboard
