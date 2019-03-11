@@ -12,7 +12,7 @@ permalink: /portfolio/smartcarux
 ##### Business Model
 ![6th China(Beijing) International Student Animation Festival](https://cyrus-education.github.io/images/scbm.jpg "Large example image")
 ##### User Persona & Situated Mental Models
-![Shuanghe Pharmaceutical Co., Ltd.](https://cyrus-education.github.io/images/shuanghe.jpg "Large example image")
+[](https://www.youtube.com/watch?v=Jsqkh1KZ3bw&t=2s)
 ##### Storyboard
 ![Victoria Wedding Photography Studio](https://cyrus-education.github.io/images/victoria.jpg "Large example image")
 ##### Scenario
