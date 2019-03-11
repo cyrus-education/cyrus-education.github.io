@@ -15,8 +15,8 @@ permalink: /portfolio/smartcarux
 {% youtube Jsqkh1KZ3bw %}
 ##### Storyboard
 ![Victoria Wedding Photography Studio](https://cyrus-education.github.io/images/victoria.jpg "Large example image")
-##### 
-![NewYork NewYork Wedding Photography Studio](https://cyrus-education.github.io/images/newyorknewyork.jpg "Large example image")
+##### Role Playing
+{% youtube Jsqkh1KZ3bw %}
 ##### Paper Prototype
 ![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
 ##### Interaction Flows
