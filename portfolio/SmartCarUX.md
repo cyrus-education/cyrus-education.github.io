@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Smart Car UX - KU Design Research Center
-permalink: /portfolio/smart
+permalink: /portfolio/smartcarux
 ---
 
 
