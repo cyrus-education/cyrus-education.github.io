@@ -25,8 +25,8 @@ permalink: /portfolio/convergentnetworkinterface
 ![Interface Design 5](https://cyrus-education.github.io/images/cnii5.png "Large example image")
 ![Interface Design 6](https://cyrus-education.github.io/images/cnii6.png "Large example image")
 ##### Concept Video
-![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
+{% include vimeoPlayer.html id=155283530 %}
 
-155283530
+
 
 
