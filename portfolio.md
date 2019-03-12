@@ -11,7 +11,7 @@
 
 [Jayhawk Navigation](portfolio/jayhawknavigation.md)
 
-[Colendar - A social calender](portfolio/colender.md)
+[Colendar - A social calender](portfolio/colendar.md)
 
 [Convergent Network Interface](portfolio/convergentnetworkinterface.md)
       
