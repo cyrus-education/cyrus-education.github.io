@@ -14,7 +14,7 @@ permalink: /portfolio/smartcarux
 ##### User Persona & Scenario
 {% include youtubePlayer.html id=Jsqkh1KZ3bw %}
 ##### Storyboard
-![Storyboard](https://cyrus-education.github.io/images/scs.png "Large example image")
+![Storyboard](https://cyrus-education.github.io/images/scs.jpg "Large example image")
 ##### Role Playing
 {% include youtubePlayer.html id=zFWjG1tWbHI %}
 ##### Prototype
