@@ -16,7 +16,7 @@ permalink: /portfolio/smartcarux
 ##### Storyboard
 ![Storyboard](https://cyrus-education.github.io/images/scs.jpg "Large example image")
 ##### Role Playing
-{% include youtubePlayer.html id=zFWjG1tWbHI %}
+{% include youtubePlayer.html zFWjG1tWbHI %}
 ##### Prototype
 {% include youtubePlayer.html id=page.Jsqkh1KZ3bw %}
 
