@@ -4,7 +4,7 @@ title: Colendar - A social calendar
 permalink: /portfolio/colendar
 ---
 
-> People use mobile calendars to help them record and organize their lives, but from our observations, mobile calendars often cause a lot of inconvenience, so we chose to redesign a mobile calendar. We interviewed people, gained experience in using mobile calendars, combined our research results, researched the current mobile calendars on the market, and studied how people organize their agendas and select key features for prototyping. After an in-depth understanding of the mobile calendar and how people organized their lives, we decided to design a mobile calendar called Colendar, which encourages people to record their daily activities and communications among people. Also, we found that audios and images will be helpful for them to remember.
+> People use mobile calendars to help them record and organize their lives, but from our observations, mobile calendars often cause a lot of inconvenience, so we chose to redesign a mobile calendar. We interviewed people, gained experience in using mobile calendars, combined our research results, researched the current mobile calendars on the market, and studied how people organize their agendas and select key features for prototyping. After an in-depth understanding of the mobile calendar and how people organized their lives, we decided to design a mobile calendar called Colendar, which encourages people to record their daily activities and communications among people. Also, we found that audios and images will be helpful for them to recall.
 
 ##### Research
 ![Business Model](https://cyrus-education.github.io/images/cnibm.png "Large example image")
