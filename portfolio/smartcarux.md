@@ -18,6 +18,6 @@ permalink: /portfolio/smartcarux
 ##### Role Playing
 {% include youtubePlayer.html id=zFWjG1tWbHI %}
 ##### Prototype
-![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
+{% include youtubePlayer.html id=page.Jsqkh1KZ3bw %}
 
 
