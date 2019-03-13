@@ -12,11 +12,11 @@ permalink: /portfolio/smartcarux
 ##### Business Model
 ![Business Model](https://cyrus-education.github.io/images/scbm.png "Large example image")
 ##### User Persona & Scenario
-{% youtube Jsqkh1KZ3bw %}
+
 ##### Storyboard
 ![Storyboard](https://cyrus-education.github.io/images/victoria.jpg "Large example image")
 ##### Role Playing
-{% youtube Jsqkh1KZ3bw %}
+
 ##### Prototype
 ![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
 
