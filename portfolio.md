@@ -1,6 +1,6 @@
 
 
-[Knowledge Box - Master Thesis Project](portfolio/knowledge.md)
+[Knowledge Box - Master Thesis Project](portfolio/knowledgebox.md)
 
 [Micro Ops - Cerner Project](portfolio/microops.md)
 
