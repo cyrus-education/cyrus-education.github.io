@@ -16,7 +16,7 @@ permalink: /portfolio/smartcarux
 ##### Storyboard
 ![Storyboard](https://cyrus-education.github.io/images/victoria.jpg "Large example image")
 ##### Role Playing
-
+{% include youtubePlayer.html id=page.zFWjG1tWbHI %}
 ##### Prototype
 ![Fengyange Beauty and Fitness Chain](https://cyrus-education.github.io/images/fengyan.jpg "Large example image")
 
