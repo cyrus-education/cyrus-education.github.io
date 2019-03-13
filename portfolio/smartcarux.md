@@ -12,7 +12,7 @@ permalink: /portfolio/smartcarux
 ##### Business Model
 ![Business Model](https://cyrus-education.github.io/images/scbm.png "Large example image")
 ##### User Persona & Scenario
-{% include youtubePlayer.html id=page.page.youtubeJsqkh1KZ3bw %}
+{% include youtubePlayer.html id=page.youtubeJsqkh1KZ3bw %}
 ##### Storyboard
 ![Storyboard](https://cyrus-education.github.io/images/scs.jpg "Large example image")
 ##### Role Playing
