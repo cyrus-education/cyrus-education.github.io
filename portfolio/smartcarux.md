@@ -18,6 +18,6 @@ permalink: /portfolio/smartcarux
 ##### Role Playing
 {% include youtubePlayer.html zFWjG1tWbHI %}
 ##### Prototype
-{% include youtubePlayer.html id=page.Jsqkh1KZ3bw %}
+{% include youtubePlayer.html id=Jsqkh1KZ3bw %}
 
 
