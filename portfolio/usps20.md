@@ -4,24 +4,28 @@ title: USPS 2.0
 permalink: /portfolio/usps20
 ---
 
-> Today’s already distracted, fragmented digital communications user experience is about to face a network explosion unprecedented in size and complexity (i.e., an “Internet of Everything”). Question: In light of this massive network growth, how can the network interface be deliberately shaped to favor essential human factors and the interests of individuals over other the interests of network technology? We set out to discover how people mentally represent themselves and their own interests in relation to their use of network technology to meet their interests and needs. We suspect a dissonance, if not an outright disconnect in the quality of that user experience. We explored a human-centered OS plug-in concept that enables users to naturally configure their device-system UI in accordance with their own assessed perspective on the world, their interests, priorities and needs.
+> A project of service design research and planning is undertaken to study the United States Postal Service (USPS), its mission, functions, services, customers and constituencies. This project studies current and prospective USPS users in order to frame what a reimagined USPS might look like, how it might function, who it might serve, and what value they might derive from it.
 
-##### Business Model
-![Business Model](https://cyrus-education.github.io/images/cnibm.png "Large example image")
-##### Persona
+
+##### Introduction
+In January 2014, the Office of the Inspector General of the U.S. Postal Service released a white paper entitled: “Providing Non-Bank Financial Services for the Underserved,” (the white paper). The white paper describes current conditions, such as: the lack of financial services in over 25% of the U.S. population – 68 million adults, and 34 million households; the reason for the gap, including the recent economic crisis, unemployment, and low wages; and the additional price this sector pays for living outside mainstream banking – approximately $2,412 in annual fees or 9.5% of their income, which totaled $89 billion nationally in 2012. To simplify numbers and make the current conditions more clear, the white paper states, “on average, people who filed for bankruptcy in 2012 were just $26 per month short of meeting their expenses.”
+{% include vimeoPlayer.html id=175909621 %}
+##### Design Process
 ![Persona](https://cyrus-education.github.io/images/cnip.png "Large example image")
-##### Conceptual Model 
+##### Design Research
+Secondary Research: We studied current state of United States Postal Service(USPS) by looking to research paper, articles, presentation, current models analysis.And we discovered there is a potential need that USPS could provide non-bank financial service.
+Field study: We entered USPS local stores, researched on the interior, physical environment, interactive equitments and observed how the service is provided and received.
+User interview: We interviewed 20+ USPS users, collected pros and cons of USPS from their perspectives, collected their needs and requirements related to financial service.
+##### Field Observation
 ![Conceptual Model](https://cyrus-education.github.io/images/cnimm.png "Large example image")
-##### Needs and Requirements
-![Needs and Requirements](https://cyrus-education.github.io/images/cniun.png "Large example image")
-##### Scenario
+##### Persona
 ![Scenario](https://cyrus-education.github.io/images/cnis.png "Large example image")
-##### Interface Design
+##### Key Functions Mode
 ![Interface Design 1](https://cyrus-education.github.io/images/cnii1.png "Large example image")
 ![Interface Design 2](https://cyrus-education.github.io/images/cnii2.png "Large example image")
 ![Interface Design 3](https://cyrus-education.github.io/images/cnii3.png "Large example image")
 ![Interface Design 4](https://cyrus-education.github.io/images/cnii4.png "Large example image")
 ![Interface Design 5](https://cyrus-education.github.io/images/cnii5.png "Large example image")
 ![Interface Design 6](https://cyrus-education.github.io/images/cnii6.png "Large example image")
-##### Concept Video
+##### Function Specification
 {% include vimeoPlayer.html id=155283530 %}
