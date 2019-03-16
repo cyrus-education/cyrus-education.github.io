@@ -9,6 +9,7 @@ permalink: /portfolio/usps20
 
 ##### Introduction
 In January 2014, the Office of the Inspector General of the U.S. Postal Service released a white paper entitled: “Providing Non-Bank Financial Services for the Underserved,” (the white paper). The white paper describes current conditions, such as: the lack of financial services in over 25% of the U.S. population – 68 million adults, and 34 million households; the reason for the gap, including the recent economic crisis, unemployment, and low wages; and the additional price this sector pays for living outside mainstream banking – approximately $2,412 in annual fees or 9.5% of their income, which totaled $89 billion nationally in 2012. To simplify numbers and make the current conditions more clear, the white paper states, “on average, people who filed for bankruptcy in 2012 were just $26 per month short of meeting their expenses.”
+
 {% include vimeoPlayer.html id=175909621 %}
 ##### Design Process
 ![Persona](https://cyrus-education.github.io/images/cnip.png "Large example image")
