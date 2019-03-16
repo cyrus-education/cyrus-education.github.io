@@ -4,15 +4,16 @@ title: Micro Ops
 permalink: /portfolio/microops
 ---
 
-> Today’s already distracted, fragmented digital communications user experience is about to face a network explosion unprecedented in size and complexity (i.e., an “Internet of Everything”). Question: In light of this massive network growth, how can the network interface be deliberately shaped to favor essential human factors and the interests of individuals over other the interests of network technology? We set out to discover how people mentally represent themselves and their own interests in relation to their use of network technology to meet their interests and needs. We suspect a dissonance, if not an outright disconnect in the quality of that user experience. We explored a human-centered OS plug-in concept that enables users to naturally configure their device-system UI in accordance with their own assessed perspective on the world, their interests, priorities and needs.
+> Obesity is a challenge that we face in our society. An increasing trend of diagnosed obesity and over weight members of our population is alarming. There have been countless attempts to sell products, diets, or initiatives, yet the upward trend continues. How can design positively impact the health of our society? More specifically, how can a system of designed touch-points help motivate people to be more physically active and sustain that activity over time? In this project, “micro-ops” was considered to be designed in order to solve this problem. This mobile application encourages people to use fragmented time to do micro exercises. “Self-determination motivation” was the key consideration in the design process. This project is sponsored by Cerner Cooperation User experience design team. 
 
-##### Business Model
+![Kick Off](https://cyrus-education.github.io/images/cnii6.png "Large example image")
+##### Brainstorm
 ![Business Model](https://cyrus-education.github.io/images/cnibm.png "Large example image")
 ##### Persona
 ![Persona](https://cyrus-education.github.io/images/cnip.png "Large example image")
-##### Conceptual Model 
+##### Scenarios
 ![Conceptual Model](https://cyrus-education.github.io/images/cnimm.png "Large example image")
-##### Needs and Requirements
+##### Interaction Flows
 ![Needs and Requirements](https://cyrus-education.github.io/images/cniun.png "Large example image")
 ##### Scenario
 ![Scenario](https://cyrus-education.github.io/images/cnis.png "Large example image")
