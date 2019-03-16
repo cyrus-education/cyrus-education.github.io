@@ -17,4 +17,4 @@ permalink: /portfolio/microops
 ##### Interaction Flows
 ![Interaction Flows](https://cyrus-education.github.io/images/cencer_if.jpg "Large example image")
 ##### Demo Video
-324597786
+{% include vimeoPlayer.html id=324597786 %}
