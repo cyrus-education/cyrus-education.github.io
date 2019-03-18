@@ -6,6 +6,8 @@ permalink: /portfolio/bayerbioband
 
 > Diabetes degrades all systems of the body. Everything from the circulatory system to the nervous system. Having high blood pressure makes this problem even worse by putting high stress on any system that is already damaged or soon will be. To develop a product and system designed around reducing the complications of diabetes, with special emphases on lowering the blood glucose and blood pressure level. Bioband is designed to control and manage the blood glucose and blood pressure in order to help diabetics to manage their life. This project is sponsored by Bayer HealthCare design team.
 ![Kick-off Meeting](https://cyrus-education.github.io/images/bayer-km.png "Large example image")
+
+
 ##### Early Design Research
 ![Early Design Research](https://cyrus-education.github.io/images/bayer-research1.png "Large example image")
 ##### Persona
