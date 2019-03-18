@@ -4,24 +4,21 @@ title: Bayer Bioband
 permalink: /portfolio/bayerbioband
 ---
 
-> Today’s already distracted, fragmented digital communications user experience is about to face a network explosion unprecedented in size and complexity (i.e., an “Internet of Everything”). Question: In light of this massive network growth, how can the network interface be deliberately shaped to favor essential human factors and the interests of individuals over other the interests of network technology? We set out to discover how people mentally represent themselves and their own interests in relation to their use of network technology to meet their interests and needs. We suspect a dissonance, if not an outright disconnect in the quality of that user experience. We explored a human-centered OS plug-in concept that enables users to naturally configure their device-system UI in accordance with their own assessed perspective on the world, their interests, priorities and needs.
-
-##### Business Model
-![Business Model](https://cyrus-education.github.io/images/cnibm.png "Large example image")
+> Diabetes degrades all systems of the body. Everything from the circulatory system to the nervous system. Having high blood pressure makes this problem even worse by putting high stress on any system that is already damaged or soon will be. To develop a product and system designed around reducing the complications of diabetes, with special emphases on lowering the blood glucose and blood pressure level. Bioband is designed to control and manage the blood glucose and blood pressure in order to help diabetics to manage their life. This project is sponsored by Bayer HealthCare design team.
+![Kick-off Meeting](https://cyrus-education.github.io/images/bayer-km.png "Large example image")
+##### Early Design Research
+![Early Design Research](https://cyrus-education.github.io/images/bayer-research1.png "Large example image")
 ##### Persona
-![Persona](https://cyrus-education.github.io/images/cnip.png "Large example image")
-##### Conceptual Model 
-![Conceptual Model](https://cyrus-education.github.io/images/cnimm.png "Large example image")
-##### Needs and Requirements
-![Needs and Requirements](https://cyrus-education.github.io/images/cniun.png "Large example image")
+![Persona](https://cyrus-education.github.io/images/bayer-persona.png "Large example image")
 ##### Scenario
-![Scenario](https://cyrus-education.github.io/images/cnis.png "Large example image")
-##### Interface Design
-![Interface Design 1](https://cyrus-education.github.io/images/cnii1.png "Large example image")
-![Interface Design 2](https://cyrus-education.github.io/images/cnii2.png "Large example image")
-![Interface Design 3](https://cyrus-education.github.io/images/cnii3.png "Large example image")
-![Interface Design 4](https://cyrus-education.github.io/images/cnii4.png "Large example image")
-![Interface Design 5](https://cyrus-education.github.io/images/cnii5.png "Large example image")
-![Interface Design 6](https://cyrus-education.github.io/images/cnii6.png "Large example image")
-##### Concept Video
-{% include vimeoPlayer.html id=155283530 %}
+![Scenario](https://cyrus-education.github.io/images/bayer-scenario.png "Large example image")
+##### Task Analysis
+![Task Analysis](https://cyrus-education.github.io/images/bayer-ta.png "Large example image")
+##### Sketch
+![Sketch1](https://cyrus-education.github.io/images/bayer-s1.png "Large example image")
+![Sketch2](https://cyrus-education.github.io/images/bayer-s2.png "Large example image")
+![Sketch3](https://cyrus-education.github.io/images/bayer-s3.png "Large example image")
+![Sketch4](https://cyrus-education.github.io/images/bayer-s4.png "Large example image")
+##### Rendering
+![Rendering](https://cyrus-education.github.io/images/bayer-r.png "Large example image")
+
