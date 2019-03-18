@@ -24,6 +24,6 @@ permalink: /portfolio/jayhawknavigation
 ##### System Work Flow
 ![System Work Flow](https://cyrus-education.github.io/images/jn-sf.png "Large example image")
 ##### Information Architecture
-![Information Architecture](https://cyrus-education.github.io/images/jn-ia.png "Large example image")
+![Information Architecture](https://cyrus-education.github.io/images/rp-ia.png "Large example image")
 ##### Raw Prototype
 ![Raw Prototype 1](https://cyrus-education.github.io/images/rp-prototype1.png "Large example image")
