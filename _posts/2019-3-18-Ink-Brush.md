@@ -4,7 +4,7 @@ title: "Ink Brush - ZN Ye"
 tags: [interactive installation, processing]
 comments: false
 ---
-> The student is inspired by the sound of Construction in Wuhan. “Different everyday” is the slogan of Wuhan. However, the price of rapid changing is to accept the mess. There are over 2 millions “immigrant workers” in Wuhan, who work over 8 hours everyday bearing the noisy working condition. This trigger her desire to visualize it. It is highly interactive and reflecting time and space. I introduced her Processing and Vezer to accurately reflect her sound records around Wuhan City. 
+> With a graphic design background, the student would like to make graphic design process interactive. She loves the Chinese Modern designer Tai-Keung Kan. Using the software Processing, she made an application to mimic Tai-Keung Kan's style. She wants to expand the possbilities and let the users to create. 
 
 ##### User Participations
 
