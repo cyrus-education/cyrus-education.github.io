@@ -4,24 +4,26 @@ title: Jayhawk Navigation
 permalink: /portfolio/jayhawknavigation
 ---
 
-> Today’s already distracted, fragmented digital communications user experience is about to face a network explosion unprecedented in size and complexity (i.e., an “Internet of Everything”). Question: In light of this massive network growth, how can the network interface be deliberately shaped to favor essential human factors and the interests of individuals over other the interests of network technology? We set out to discover how people mentally represent themselves and their own interests in relation to their use of network technology to meet their interests and needs. We suspect a dissonance, if not an outright disconnect in the quality of that user experience. We explored a human-centered OS plug-in concept that enables users to naturally configure their device-system UI in accordance with their own assessed perspective on the world, their interests, priorities and needs.
+> We investigated current situation by researching on on-campus signage, KU parking website, KU parking map, KU navigation app, Google map app. We define problems of the existing system and found there is no consistent service across campus. Since there isn’t consistent design across any of the campus buildings, it becomes difficult for people to easily form the mental models that aid in wayfinding – particularly those unfamiliar with the environment. In this project, we try to design a single, cohesive, usable, wayfinding tool that integrates with their daily lives and anticipates their daily needs.
 
-##### Business Model
-![Business Model](https://cyrus-education.github.io/images/cnibm.png "Large example image")
-##### Persona
-![Persona](https://cyrus-education.github.io/images/cnip.png "Large example image")
-##### Conceptual Model 
-![Conceptual Model](https://cyrus-education.github.io/images/cnimm.png "Large example image")
-##### Needs and Requirements
-![Needs and Requirements](https://cyrus-education.github.io/images/cniun.png "Large example image")
-##### Scenario
-![Scenario](https://cyrus-education.github.io/images/cnis.png "Large example image")
-##### Interface Design
-![Interface Design 1](https://cyrus-education.github.io/images/cnii1.png "Large example image")
-![Interface Design 2](https://cyrus-education.github.io/images/cnii2.png "Large example image")
-![Interface Design 3](https://cyrus-education.github.io/images/cnii3.png "Large example image")
-![Interface Design 4](https://cyrus-education.github.io/images/cnii4.png "Large example image")
-![Interface Design 5](https://cyrus-education.github.io/images/cnii5.png "Large example image")
-![Interface Design 6](https://cyrus-education.github.io/images/cnii6.png "Large example image")
 ##### Concept Video
-{% include vimeoPlayer.html id=155283530 %}
+{% include vimeoPlayer.html id=324926388 %}
+##### Situation Defined
+![Situation Defined1](https://cyrus-education.github.io/images/jn-sd1.png "Large example image")
+![Situation Defined2](https://cyrus-education.github.io/images/jn-sd2.png "Large example image")
+![Situation Defined3](https://cyrus-education.github.io/images/jn-sd3.png "Large example image")
+##### Research Plan
+![Research Plan](https://cyrus-education.github.io/images/jn-rp.png "Large example image")
+##### User Case Diagram
+![User Case Diagram](https://cyrus-education.github.io/images/jn-uc.png "Large example image")
+##### Role Playing
+{% include vimeoPlayer.html id=324596926 %}
+{% include vimeoPlayer.html id=324596926 %}
+##### User Flow
+![User Flow](https://cyrus-education.github.io/images/jn-uf.png "Large example image")
+##### System Work Flow
+![System Work Flow](https://cyrus-education.github.io/images/jn-sf.png "Large example image")
+##### Information Architecture
+![Information Architecture](https://cyrus-education.github.io/images/jn-ia.png "Large example image")
+##### Raw Prototype
+![Raw Prototype 1](https://cyrus-education.github.io/images/rp-prototype1.png "Large example image")
