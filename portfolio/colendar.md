@@ -19,12 +19,11 @@ permalink: /portfolio/colendar
 ##### Need Cluster Matrix
 ![Need Cluster Matrix](https://cyrus-education.github.io/images/colendar-nm.png "Large example image")
 ##### User Flow
-![User Flow](https://cyrus-education.github.io/images/colendar-uf.png "Large example image")
+![User Flow](https://cyrus-education.github.io/images/colendar-uf.jpg "Large example image")
 ##### Co-Created Storyboard
-![Storyboard1](https://cyrus-education.github.io/images/colendar-sb1.jpg "Large example image")
-![Storyboard2](https://cyrus-education.github.io/images/colendar-sb2.jpg "Large example image")
+![Storyboard](https://cyrus-education.github.io/images/colendar-sb.jpg "Large example image")
 ##### Raw Prototype
 ![Raw Prototype 1](https://cyrus-education.github.io/images/colendar-rp1.png "Large example image")
 ![Raw Prototype 2](https://cyrus-education.github.io/images/colendar-rp2.png "Large example image")
 ##### User Test
-{% include vimeoPlayer.html id=155283530 %}
+![Raw Prototype 2](https://cyrus-education.github.io/images/colendar-rp2.png "Large example image")
