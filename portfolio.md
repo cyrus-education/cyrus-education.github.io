@@ -1,5 +1,7 @@
 
 
+[Smart 2 Friends - Daimler Project](portfolio/smart2friends.md)
+
 [Knowledge Box - Master Thesis Project](portfolio/knowledgebox.md)
 
 [Micro Ops - Cerner Project](portfolio/microops.md)
