@@ -15,21 +15,16 @@ permalink: /portfolio/colendar
 ![Research 6](https://cyrus-education.github.io/images/colendar-s6.png "Large example image")
 ![Research 7](https://cyrus-education.github.io/images/colendar-s7.png "Large example image")
 ##### Persona
-![Persona](https://cyrus-education.github.io/images/cnip.png "Large example image")
+![Persona](https://cyrus-education.github.io/images/colendar-persona.png "Large example image")
 ##### Need Cluster Matrix
-![Conceptual Model](https://cyrus-education.github.io/images/cnimm.png "Large example image")
+![Need Cluster Matrix](https://cyrus-education.github.io/images/colendar-nm.png "Large example image")
 ##### User Flow
-![Needs and Requirements](https://cyrus-education.github.io/images/cniun.png "Large example image")
-##### Storyboard
-![Scenario](https://cyrus-education.github.io/images/cnis.png "Large example image")
+![User Flow](https://cyrus-education.github.io/images/colendar-uf.png "Large example image")
+##### Co-Created Storyboard
+![Storyboard1](https://cyrus-education.github.io/images/colendar-sb1.jpg "Large example image")
+![Storyboard2](https://cyrus-education.github.io/images/colendar-sb2.jpg "Large example image")
 ##### Raw Prototype
-![Interface Design 1](https://cyrus-education.github.io/images/cnii1.png "Large example image")
-![Interface Design 2](https://cyrus-education.github.io/images/cnii2.png "Large example image")
-![Interface Design 3](https://cyrus-education.github.io/images/cnii3.png "Large example image")
-![Interface Design 4](https://cyrus-education.github.io/images/cnii4.png "Large example image")
-![Interface Design 5](https://cyrus-education.github.io/images/cnii5.png "Large example image")
-![Interface Design 6](https://cyrus-education.github.io/images/cnii6.png "Large example image")
+![Raw Prototype 1](https://cyrus-education.github.io/images/colendar-rp1.png "Large example image")
+![Raw Prototype 2](https://cyrus-education.github.io/images/colendar-rp2.png "Large example image")
 ##### User Test
-{% include vimeoPlayer.html id=155283530 %}
-##### Functional Specification
 {% include vimeoPlayer.html id=155283530 %}
