@@ -25,5 +25,3 @@ permalink: /portfolio/colendar
 ##### Raw Prototype
 ![Raw Prototype 1](https://cyrus-education.github.io/images/colendar-rp1.png "Large example image")
 ![Raw Prototype 2](https://cyrus-education.github.io/images/colendar-rp2.png "Large example image")
-##### User Test
-![Raw Prototype 2](https://cyrus-education.github.io/images/colendar-rp2.png "Large example image")
