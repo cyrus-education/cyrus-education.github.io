@@ -18,7 +18,6 @@ permalink: /portfolio/jayhawknavigation
 ![User Case Diagram](https://cyrus-education.github.io/images/jn-uc.png "Large example image")
 ##### Role Playing
 {% include vimeoPlayer.html id=324596926 %}
-{% include vimeoPlayer.html id=324596926 %}
 ##### User Flow
 ![User Flow](https://cyrus-education.github.io/images/jn-uf.png "Large example image")
 ##### System Work Flow
