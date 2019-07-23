@@ -18,6 +18,6 @@
       
 [Smart Car UX - KU Design Research Center](portfolio/smartcarux.md)
 
-[Digital Museum](portfolio/digitalmuseum.md)
+[Digital Museum - Bachelor Project](portfolio/digitalmuseum.md)
 
 [Website Projects](portfolio/website-projects.md)
