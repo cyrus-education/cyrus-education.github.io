@@ -9,5 +9,6 @@ permalink: /about/
 > Before working as a teacher, I'm a User Experience designer in Daimler China, 58.com, Taobao.com(Alibaba China) and so on. I used to study Interaction Design (master) at University of Kansas and digital media art (bachelor) at Communication University of China.   
 
 _**I'm actively applying an PhD program in Learning Science.**_
+
 ### Contact me
 [yangzaicyrus@gmail.com](mailto:yangzaicyrus@gmail.com)
