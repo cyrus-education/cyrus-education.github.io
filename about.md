@@ -10,5 +10,4 @@ permalink: /about/
 
 _**I'm actively applying an PhD program in Learning Science.**_
 
-### Contact me
-[yangzaicyrus@gmail.com](mailto:yangzaicyrus@gmail.com)
+### Contact me: [yangzaicyrus@gmail.com](mailto:yangzaicyrus@gmail.com)
