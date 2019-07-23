@@ -5,7 +5,7 @@ permalink: /portfolio/digitalmuseum
 ---
 
 
-> IG digital museum focused on creating realistic online museum experience. Researched on the different experience of physical museums, this flash website started from user perspectives. Using user interviews, persona, secondary research and information architecture, we aimed at providing a desirable experience and provide knowledge to the users.
+> IG digital museum focused on creating realistic online museum experience. Researched on the experience of physical museums, this flash website started from user perspectives, we aimed at providing a desirable online museum visiting experience and let the viewers immersed in the information.   
 
 ##### Demo Video
 {% include vimeoPlayer.html id=106237744 %}
