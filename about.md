@@ -9,6 +9,6 @@ permalink: /about/
 > Before working as a tutor, I'm a User Experience designer for Daimler China, 58.com, Taobao.com(Alibaba China) and etc. I used to study Interaction Design (master) at University of Kansas and digital media art (bachelor) at Communication University of China.   
 
 _**I'm actively applying an PhD program in Learning Science.**_
-## Contact me
+### Contact me
 
 [yangzaicyrus@gmail.com](mailto:yangzaicyrus@gmail.com)
