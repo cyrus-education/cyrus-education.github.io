@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Museum
+title: Digital Museum - Bachelor Project
 permalink: /portfolio/digitalmuseum
 ---
 
