@@ -18,7 +18,7 @@ This course is different from most of "design courses" for it requires students 
 #### The Challenge
 The students struggled not only because the essay should be written in English, but also the way to "create" their own essay. Usually, "art-based" students are trained think and create a work(artwork) subjectively. However, they are confused by presenting "objective" knowledge and are required to write an essay to address their own thinkings.   
 
-I worked with the course leader Alan Dolhasz and as a teching assistant who speaks Chinese and know Chinese students more, I totally understand the frustrations.   
+I worked with the course leader Alan Dolhasz and as a teching assistant who speaks Chinese and know Chinese students more, I totally understand this problem. Trained as an Interaction Designer, I reminded how effective and efficient the "card sorting" method is when we designers try to learning new information under unfamiliar conditions.    
 
 
 
