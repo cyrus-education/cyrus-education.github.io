@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Media Technology Teaching Practices 2018"
+title: "Card Sorting to inspire logical essay"
 tags: [Image, Audio, Video]
 comments: false
 ---
