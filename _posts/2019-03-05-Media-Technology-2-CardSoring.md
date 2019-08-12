@@ -4,27 +4,27 @@ title: "Ask and Write: Using Card Sorting to formulate an essay"
 tags: [Image, Audio, Video]
 comments: false
 ---
-#### Role: Teaching Assistant
-#### Course Leader: Alan Dolhasz
-
-#### Background of this course
+#### Media Technology UG2
 Media Technology course aims at presenting a knowledge-based foundations to the digital media undergraduates. It covers:  
 * Image, Video and Audio acquisition, processing and compression
 * Fundamentals of Light and Sound
 * Digital information storage and Content Delivery Networks (CDNs)
-
 In the BCU module guide, three learning objectives should be fulfilled, which are:
 * Demonstrate an understanding of the operating characteristic and applications of systems involving capture and processing of Image, audio and human-interaction.
 * Explain the application of communication and networking in media processing and distribution systems including: how audio visual information is transmitted on the internet.
 * Present original analysis of technologies and markets from wide ranging research.
 
-The assessments divide into two part: (1) paper test and (2) a technical report that need to address a specific research area related to video compression. 
+This course is different from most of "design courses" for it requires students to write a logical essay rather than use the learned knowledge to create a work(Video, Audio, Website and so on). However, the report's topic is decided by students who should address a specific area related to video compression. 
+#### The Challenge
+The students struggled not only because the essay should be written in English, but also the way to "create" their own essay. Usually, "art-based" students are trained think and create a work(artwork) subjectively. However, they are confused by presenting "objective" knowledge and are required to write an essay to address their own thinkings.   
+
+I worked with the course leader Alan Dolhasz and as a teching assistant who speaks Chinese and know Chinese students more, I totally understand the frustrations.   
 
 
-#### Challenges
-This course is a foundational course in the process of fostering of "digital thinking". However, the Chinese undergraduate-level students are especially lack of the necessary knowledge. The students are all "art-based" students in high school, which means they had strict trainings on hand drawing, but no computer-based skills. 
 
-Students under Chinese cultural impacts are tends to passively listen and reluctantly to learning-by-doing. What's more, there is a big gap between "digital thinking" and the "pre-digital thinking" from my teaching practices, that is,  
+
+
+
 
 
 
