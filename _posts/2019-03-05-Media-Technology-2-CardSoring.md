@@ -26,6 +26,26 @@ Usually, the [card sorting - YouTube](https://www.youtube.com/watch?v=-89cj71-Vf
 ### From "Knowledge" to "Questions"
 
 
+| Lecture Contents                                                                                                                                                                                                                                     | Questions assigned to Students                                                                                                                                                                                                                                                                                                                                                                        | The questions proposed by a student |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+| * Visible Light Specturm 
+* Additive(light) vs Subtractive(paint) 
+* Blackbody Radiation and Color temperature 
+* Digital image sensors 
+* CMOS vs CCD 
+* RAW format 
+* Aliasing 
+* Moire pattern 
+* Rolling Shutter 
+* Wagon Wheel Effect 
+* Partial Exposure | * What is light? 
+* What are the differences between RGB and CMYK? 
+* What does a color filter do? 
+* What are the different between Full Frame Camera and APS-C camera? 
+* What is bit depth?  
+* What are the differences between 8-bit and 16-bitWhat is crop factor? 
+* What is crop factor? * Which one of CCDs and CMOS sensors is using "rolling shutter"? 
+* Why there will be a wagon wheel effect? |                                     |
 
 
 Week 1
