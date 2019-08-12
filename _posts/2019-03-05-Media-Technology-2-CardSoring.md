@@ -20,7 +20,7 @@ The students struggled not only because the essay should be written in English, 
 
 I worked with the course leader Alan Dolhasz and as a teching assistant who speaks Chinese and know Chinese students more, I totally understand this problem. Trained as an Interaction Designer, I reminded how effective and efficient the "card sorting" method is when we designers try to learning new information under unfamiliar conditions.    
 
-Usually, the [card sorting - YouTube](https://www.youtube.com/watch?v=-89cj71-Vfg) is conducted between two people (one interviewer and on interviewee). During my practices, I found the essential part of card sorting is by asking and speaking out the thinking inside the brains. 
+Usually, the [card sorting - YouTube](https://www.youtube.com/watch?v=-89cj71-Vfg) is conducted between two people (one interviewer and on interviewee). During my practices, I found the essential part of card sorting is by asking and speaking out the thinkings inside the brains. 
 
 
 
