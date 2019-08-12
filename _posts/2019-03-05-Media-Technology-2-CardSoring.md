@@ -23,7 +23,7 @@ I worked with the course leader Alan Dolhasz and as a teching assistant who spea
 Usually, the [card sorting - YouTube](https://www.youtube.com/watch?v=-89cj71-Vfg) is conducted between two people (one interviewer and on interviewee). In my previous experience, I found the essential part of card sorting is by asking and speaking out the thinkings inside the brains. In my teaching activities (tutorial classes), I generated several questions based on the lecture contents and asked students to search answers after classes. The students are encouraged to ask their own questions and will receive additional credits when they proposed good questions.  
 
 
-### From "knowledge" to "questions"
+### From "Knowledge" to "Questions"
 
 
 
