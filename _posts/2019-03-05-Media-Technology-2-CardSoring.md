@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Card Sorting to inspire logical essay"
+title: "Ask and Write: Using Card Sorting to formulate an essay"
 tags: [Image, Audio, Video]
 comments: false
 ---
