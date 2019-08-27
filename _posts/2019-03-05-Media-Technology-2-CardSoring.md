@@ -53,7 +53,7 @@ Here is an example from "Week1: Foundations of Digital Camera" to show how I "tr
 ### Card Sorting for Writing
 The final assessment asked students to use the knowledge of this course to generate an essay about "why compression is important". This is the card note from one students about the question "what is bit depth": 
 
-_Bit depth is the number of different values which quantify the intensity of a pixel, for example, in color images, bit depth refers to the number of values for each pixel in each color channel. 8 bit = 256 (2^8) different value_
+_Bit depth is the number of different values which quantify the intensity of a pixel, for example, in color images, bit depth refers to the number of values for each pixel in each color channel. 8 bit = 256 (2^8) different values_
 
 Here is how she linked "bit depth" to the general topic "compresssion": 
 
