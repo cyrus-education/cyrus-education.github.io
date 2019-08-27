@@ -51,5 +51,9 @@ Here is an example from "Week1: Foundations of Digital Camera" to show how I "tr
 9. Why there will be a wagon wheel effect?
 
 ### Card Sorting for Writing
+The final assessment asked students to use the knowledge of this course to generate an essay about "why compression is important". This is the card note from one students about the question "what is bit depth": 
+_Bit depth is the number of different values which quantify the intensity of a pixel, for example, in color images, bit depth refers to the number of values for each pixel in each color channel. 8 bit = 256 (2^8) different value_
 
+Here is how she linked "bit depth" to the general topic "compresssion": 
+_In terms of image and video, the visual information in the physical world is captured by pixels, which is composed of bits and will be rendered by the computers. As the digital technology samples the physical signals into digital information, the main challenge (or problem) is to keep as much as “useful information” while constraints the file size affordable. From the business point of view, the digital video has to be kept as the enough quality and be as small as possible to keep in the server. Therefore, compression is one of the most important things in the process of capturing, storing and distributing videos._ 
 
